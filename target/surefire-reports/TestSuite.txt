@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.886 s <<< FAILURE! - in TestSuite
+E2EFramework.SeleniumFramewor.ValidateTitle.basePageNavigation  Time elapsed: 18.042 s  <<< FAILURE!
+java.lang.AssertionError: expected [Rediff.com: New | Rediffmail | Stock Quotes | Shopping] but found [Rediff.com: News | Rediffmail | Stock Quotes | Shopping]
+	at E2EFramework.SeleniumFramewor.ValidateTitle.basePageNavigation(ValidateTitle.java:33)
+
